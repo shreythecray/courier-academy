@@ -7,6 +7,9 @@ Notifications are hard. They require infrastructure that is reliable, scalable a
 ## Navigating Courier University
 Master your skills with a self-paced learning experience. Skills are labelled with a  icon. You can follow the provided structure or select and master skills based on your needs. This platform offers a guided, step-by-step learning experience. All skills can be mastered through our documentation for those who prefer a less guided experience.
 
+### Guides:
+* [Getting Started with Node.js](https://github.com/shreythecray/courier-academy/blob/main/guides/nodejs/steps/1.0.md)
+
 ### Skills:
 1. Master API V2: fundamentals of sending any/all notifications with a quick API call
 2. Master the Notifications Designer
